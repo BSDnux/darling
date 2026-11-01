@@ -22,7 +22,7 @@
 
 [Website](https://darlinghq.org/) &bull;
 [Community Discord](https://discord.gg/C7YnZpezjg) &bull;
-[Bug Tracker](https://github.com/darlinghq/darling/issues)
+[Bug Tracker](https://github.com/darlingtester2/NoAiDarling/issues)
 
 ## Introduction
 
